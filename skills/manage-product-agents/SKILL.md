@@ -1,15 +1,15 @@
 ---
 name: manage-product-agents
-description: Use to inspect Hobbes product-agent Roles, Playbooks, versions, or coaching; preview and apply requested agent changes; or publish a specific approved draft. Resolve the Role, show proposed changes, and honor native confirmations.
+description: Use to inspect Hobbes AI Product Expert Roles, Playbooks, versions, or coaching; preview and apply requested agent changes; or publish a specific approved draft. Resolve the Role, show proposed changes, and honor native confirmations.
 ---
 
-# Manage product agents
+# Manage AI Product Experts
 
 Use only tools exposed by the connected organization's grant. Consult connect-hobbes for access failures. Never ask for credentials in chat, invent a Role ID, or use another organization to complete a request.
 
 ## Inspect the requested agent
 
-Call list_roles and match the user's intended product agent to a returned Role. Carry its exact role_id into every applicable call. If several Roles match, ask which one; use the default only when the user requests it or the returned list establishes the sole intended Role. Report the Role name and ID so the user can verify the target.
+Call list_roles and match the user's intended AI Product Expert to a returned Role. Carry its exact role_id into every applicable call. If several Roles match, ask which one; use the default only when the user requests it or the returned list establishes the sole intended Role. Report the Role name and ID so the user can verify the target.
 
 Call get_playbook to inspect that Role's staging and production versions, visible sections, section catalog, sections_etag, and returned links. Distinguish the draft from the live agent. Read relevant coaching with list_coaching_feedback and list_coaching_changes when requested. Use their actual results, including empty backlogs or unavailable fields, rather than inventing product knowledge or settings.
 

@@ -2,7 +2,7 @@
   "name": "hobbes",
   "displayName": "Hobbes",
   "version": "0.2.1",
-  "description": "Manage Hobbes AI demo agents, review demo conversations and prospect engagement, and create personalized demo links.",
+  "description": "Manage Hobbes AI Product Experts, review buyer conversations, and create personalized demo links.",
   "author": {
     "name": "Hobbes",
     "url": "https://www.hihobbes.com"
@@ -13,8 +13,8 @@
     "hobbes",
     "sales",
     "demos",
-    "product-agents",
-    "playbooks"
+    "playbooks",
+    "ai-product-experts"
   ],
   "privacyPolicyUrl": "https://www.hihobbes.com/privacy-policy"
 }

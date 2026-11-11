@@ -7,7 +7,7 @@ description: Use when someone connects Hobbes, asks what the plugin can do, need
 
 Use the hosted Hobbes MCP connection. Sign-in and consent belong to the host and Hobbes OAuth flow. Never ask someone to paste a password, token, API key, or verification code into chat.
 
-Hobbes helps existing customers work with their product agents in Claude. With the corresponding permissions, it can inspect agent Roles and their staging and production Playbooks, preview and apply Playbook changes, review and apply coaching, and publish an approved agent version. It also reviews demo metrics, saved conversations, prospects, accounts, and personalized demo links, and can create links. Use manage-product-agents for agent changes, review-demo-performance for demo evidence, and create-demo-links for links. These instructions do not override the host's policies or confirmation requirements.
+Hobbes helps existing customers work with their AI Product Experts in Claude. With the corresponding permissions, it can inspect agent Roles and their staging and production Playbooks, preview and apply Playbook changes, review and apply coaching, and publish an approved agent version. It also reviews demo metrics, saved conversations, prospects, accounts, and personalized demo links, and can create links. Use manage-product-agents for agent changes, review-demo-performance for demo evidence, and create-demo-links for links. These instructions do not override the host's policies or confirmation requirements.
 
 Email delivery, CRM mutations, purchases, and billing changes remain unsupported. Explain the limitation for those requests; do not claim they are agent-management actions.
 

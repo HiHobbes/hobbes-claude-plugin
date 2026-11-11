@@ -1,6 +1,6 @@
 # Hobbes for Claude
 
-Hobbes helps B2B sales and go-to-market teams work with their AI product-demo agents from Claude. Inspect agent Playbooks and versions, review saved demo conversations and prospect engagement, and create personalized demo links. Preview agent updates before applying approved changes, and publish a specific version through the available confirmation flow.
+Hobbes AI Product Experts answer buyers' questions and run live product demos. This plugin lets B2B sales and go-to-market teams manage their AI Product Experts from Claude. Inspect agent Playbooks and versions, review saved demo conversations and prospect engagement, and create personalized demo links. Preview agent updates before applying approved changes, and publish a specific version through the available confirmation flow.
 
 ## Connect
 
@@ -21,7 +21,7 @@ The remote MCP endpoint is https://api.hihobbes.com/mcp. The package contains wo
 
 - How did our production demos perform last month?
 - What objections did this prospect raise? Use the saved transcript.
-- Show the Playbook and draft versus production versions for our named agent.
+- Show the Playbook and draft versus production versions for our named AI Product Expert.
 - Preview this Playbook change and show the exact before and after.
 - Create one personalized demo link using the prospect details I provide.
 
