@@ -1,6 +1,8 @@
 # Hobbes for Claude
 
-Hobbes AI Product Experts answer buyers' questions and run live product demos. This plugin lets B2B sales and go-to-market teams manage their AI Product Experts from Claude. Inspect agent Playbooks and versions, review saved demo conversations and prospect engagement, and create personalized demo links. Preview agent updates before applying approved changes, and publish a specific version through the available confirmation flow.
+Hobbes builds AI Product Experts for B2B software companies with complex products. They guide buyers, customers and teams through real software, answer questions by text or voice, and explain workflows within guardrails set by your team. Use Hobbes across pre-sales, sales, onboarding, customer success, expansion and internal training.
+
+Connect Hobbes to Claude to inspect and coach your AI Product Experts, review conversations, transcripts, buyer intent and account activity, and create personalized demo links. Preview Playbook changes before saving and publish an approved version through Hobbes's confirmation flow.
 
 ## Connect
 

@@ -8,7 +8,7 @@
     {
       "name": "hobbes",
       "source": "./",
-      "description": "Manage Hobbes AI Product Experts, review buyer conversations, and create personalized demo links."
+      "description": "Manage Hobbes AI Product Experts, learn from customer conversations, and create personalized demo links."
     }
   ],
   "description": "Hobbes workflows and MCP access for Claude."
