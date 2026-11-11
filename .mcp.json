@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "hobbes": {
+      "type": "http",
+      "url": "https://api.hihobbes.com/mcp"
+    }
+  }
+}

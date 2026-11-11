@@ -1,0 +1,15 @@
+{
+  "name": "hobbes",
+  "owner": {
+    "name": "Hobbes",
+    "email": "support@hihobbes.com"
+  },
+  "plugins": [
+    {
+      "name": "hobbes",
+      "source": "./",
+      "description": "Manage Hobbes AI demo agents, review demo conversations and prospect engagement, and create personalized demo links."
+    }
+  ],
+  "description": "Hobbes workflows and MCP access for Claude."
+}
