@@ -26,6 +26,7 @@ The remote MCP endpoint is https://api.hihobbes.com/mcp. The package contains wo
 - Show the Playbook and draft versus production versions for our named AI Product Expert.
 - Preview this Playbook change and show the exact before and after.
 - Create one personalized demo link using the prospect details I provide.
+- Show our open knowledge gaps and help me answer the most frequent one.
 
 Hobbes does not send outreach, change CRM records, or process payments through this connector. Treat recommendations, saved drafts, and successful production publication as separate outcomes.
 
